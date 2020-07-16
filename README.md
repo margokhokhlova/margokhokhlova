@@ -1,7 +1,8 @@
 ### Hi there 👋
 I am Margo, a researcher at IGN/LIRIS.
-I am currently working on geolocalization tasks using image and graph data.
-I used to work with images, but at the moment I learn about ML on graphs.
+My PhD thesis was about clinical gait analysis, and I am currently working on geolocalization tasks using image and graph data.
+I used to work with images and point clouds, but at the moment I actively learn about ML on graphs. 
+
 <!--
 **margokhokhlova/margokhokhlova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
